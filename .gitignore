@@ -1,0 +1,8 @@
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+#my config
+web/bower_components/
+target/
