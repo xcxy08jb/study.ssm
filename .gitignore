@@ -4,8 +4,8 @@ ehthumbs.db
 Desktop.ini
 
 #ide ignore config
-/.idea
-/target
+.idea
+target
 
 #my config
-/web/bower_components
+web/bower_components
